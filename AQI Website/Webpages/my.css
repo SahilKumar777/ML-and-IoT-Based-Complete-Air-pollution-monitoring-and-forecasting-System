@@ -1,0 +1,49 @@
+.my-card {
+						border-radius:15px;
+						background-color:#0fa75abf;
+						margin-top:15px;
+						margin-bottom:15px;
+						padding:15px;
+						border-bottom:2px;
+						border-bottom-color:#;
+						box-shadow:0 10px 15px rgb(18,235,135,0.15);
+						
+						}
+			.my-widget1-r {
+							border-radius:10px;
+							background-color:#12fa8f96;
+							margin-left:10px;
+							padding:10px;
+							width:45%;
+							}	
+			.my-widget1-l {
+							border-radius:10px;
+							background-color:#12fa8f96;
+							margin-right:10px;
+							padding:10px;
+							width:45%;
+							}
+			.my-widget2 {
+							border-radius:10px;
+							background-color:#12fa8f96;
+							margin-right:10px;
+							padding:10px;
+							width:100%;
+							}
+			.my-widget3 {
+							border-radius:10px;
+							background-color:#fcebebe0;
+							margin:15px;
+							padding:0px;
+							width:150px;
+							box-shadow:0 10px 15px rgb(18,35,25,0.15);
+							}
+			.my-scroll {
+							overflow-x:scroll;
+							overflow-y:hidden;
+							padding:0px;
+							width:100%;
+							}	
+			.graph 		{
+							background-color:#fff;
+							}			
