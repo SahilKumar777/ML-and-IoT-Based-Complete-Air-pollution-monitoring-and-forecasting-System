@@ -15,6 +15,8 @@ IOT Based Air Pollution Monitoring &amp; Forecasting System
 
 <a name="IoT"></a>
 ### IOT based Air Pollution Sensing Device
+![Image text](Screenshots/IoT-Device/device.jpg)
+
 1. Arduino (Mega 2560)
 2. Pollution Sensors
 3. Paticulate Matter Sensor
@@ -87,30 +89,37 @@ IOT Based Air Pollution Monitoring &amp; Forecasting System
 
 #### Details
 1. **Collecting Dataset** 
-    * Collecting Dataset from the website database of atlest 6 months.
+    * Collecting Dataset from the website database of atlest 6 months. 
+      ![Image text](Screenshots/Forecasting/dataset.jpg)
+      
 2. **Analysing Dataset** 
     * Exploratory data analysis on the dataset.
     * Wrangling and Preparing the Dataset.
-    * Time-windowing the Dataset for time series data forecasting.
+    * Time-windowing the Dataset for time series data forecasting. 
+      ![Image text](Screenshots/Forecasting/analyseDataset.jpg)
+      
 3. **Training Models using ML** 
     * Creating various Machine Learning models 
     * Applying various techniques to fit and forecast the data.
-    * Comparing Various Designed Models
+    * Comparing Various Designed Models. 
+      ![Image text](Screenshots/Forecasting/trainingModel.jpg)
+      
 4. **Forecasting Time-Series data**
-    * Finally using the best model to forecast AQI.
+    * Finally using the best model to forecast AQI. 
+      ![Image text](Screenshots/Forecasting/forecastAqi.jpg)
 
 ## Technologies
 ***
 ### A list of technologies used within the project:
 **For Setting Up Iot Device**
-* [Arduino](https://example.com): Version 12.3 
-* [C](https://example.com): Version 12.3 
-* [C++](https://example.com): Version 12.3 
+* [Arduino](https://example.com): Version 1.3 
+* [C](https://example.com): Version 1.3 
+* [C++](https://example.com): Version 1.3 
 
 
 
 **For Designing Website**
-* [PHP](https://example.com): Version 12.3 
+* [PHP](https://example.com): Version 1.3 
 * [Javascript](https://example.com): Version 2.34
 * [CSS](https://example.com): Version 1234
 * [BootsTrap](https://example.com): Version 1234
