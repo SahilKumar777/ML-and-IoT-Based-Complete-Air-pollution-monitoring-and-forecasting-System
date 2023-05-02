@@ -11,7 +11,7 @@ IOT Based Air Pollution Monitoring &amp; Forecasting System
 
 ## Functionalities
 ***
-![Image text](https://example.com)
+![Image text](Screenshots/Website/.jpg)
 
 <a name="IoT"></a>
 ### IOT based Air Pollution Sensing Device
@@ -48,6 +48,7 @@ IOT Based Air Pollution Monitoring &amp; Forecasting System
 <a name="website"></a>
 ### AQI Monitoring Website
 ***
+![Image text](Screenshots/Website/websiteFront.jpg)
 1. Dashboard
 2. Monthly and Daily AQI Monitoring
 3. Daily and Hourly AQI Forecasting 
@@ -56,18 +57,24 @@ IOT Based Air Pollution Monitoring &amp; Forecasting System
 
 #### Details
 1. **Dashboard** 
-    * For watching the continuous report of all the Sensors
+    * For watching the continuous report of all the Sensors. 
+      ![Image text](Screenshots/Website/aqiDashboard.jpg)
 2. **Monthly and Daily AQI Monitoring** 
     * Watching Monthly report of current month AQI.
     * Watching Hourly report of same day.
+      ![Image text](Screenshots/Website/aqiGraph.jpg)
 3. **Daily and Hourly AQI Forecasting** 
     * Seeing next 7 day AQI forecast.
     * Seeing next 24 hours forecast.
+      ![Image text](Screenshots/Website/tempGraph.jpg)
+   
 4. **Pollution history** 
-    * Graphical repersantion of historical data based on selected Month or Day
+    * Graphical repersantion of historical data based on selected Month or Day. 
+      ![Image text](Screenshots/Website/monthlyData.jpg)
 5. **AQI Alerting and Precaution**
     * Provides alert on website whenever AQI level crosses the limit.
     * Provides consequences and precaution about the AQI levels.
+      ![Image text](Screenshots/Website/webPage2.jpg)
  
 <a name="ml"></a>
 ### Forecasting AQI
