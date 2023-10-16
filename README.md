@@ -1,4 +1,4 @@
-# ML-AI-IoT-Based-Complete-Air-pollution-monitoring-and-forecasting-System
+# Machine Learning & IoT-Based-Complete-Air-pollution-monitoring-and-forecasting-System.
 
 
 [Link To Live Project](http://airpollution.epizy.com/newpage1.php)
@@ -7,7 +7,7 @@ IOT Based Air Pollution Monitoring &amp; Forecasting System
 ## Modules
 1. [Pollution Sensing Device](#IoT)
 2. [AQI Monitoring Website](#website)
-3. [Forecasting using ML](#ml)
+3. [Forecasting using Various ML Techniques](#ml)
 
 ## Functionalities
 ***
